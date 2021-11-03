@@ -42,7 +42,7 @@
         <item id="introHead">Introduction</item>
         <item id="introText">Imagine: Last weekend you met up with a friend for lunch. When you mentioned you were feeling worried and uncertain about your future, she told you about an organization in the city that offers mental health counseling and career guidance to working women. The organization is called Daisy Services and it operates as a not-for-profit organization. It is not a business. It also is not a government agency. The community organization was set up to help working women improve the quality of life for themselves and their families. Your friend heard about {b}Daisy Services{/b} from her older sister who has been feeling lost and unmotivated to work ever since her husband died. She received counseling services at {b}Daisy Services{/b} for six months and is now feeling better. She also mentioned that the organization offers a variety of services, including meditation, and even free childcare for individuals receiving counseling services. 
 
-Activity: In this exercise, I want to ask for your help to understand what might be important to you in deciding whether or not to visit {b}Daisy Services{/b}. Specifically, I would like to know what might make you more likely to want to visit Daisy Services and what might make you less likely to want to visit {b}Daisy Services{/b}, whether you are interested to learn more about their counseling services or other services that may be available. </item>
+{br}{br}Activity: In this exercise, I want to ask for your help to understand what might be important to you in deciding whether or not to visit {b}Daisy Services{/b}. Specifically, I would like to know what might make you more likely to want to visit Daisy Services and what might make you less likely to want to visit {b}Daisy Services{/b}, whether you are interested to learn more about their counseling services or other services that may be available. </item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
         <item id="step1Head">Step 1 of 5</item>
@@ -51,14 +51,14 @@ Activity: In this exercise, I want to ask for your help to understand what might
         <!-- step2: sorting (leave blank to skip popup) -->
         <item id="step2Head">Step 2 of 5</item>
         <item id="step2Text">Take the cards from the "MOST IMPORTANT"-pile and arrange them on right side of the score sheet.{br}{br}Next, take the cards from the "LEAST IMPORTANT"-pile and arrange them on the left side of the score sheet. Follow this procedure for all cards in the "MOST IMPORTANT"- and "LEAST IMPORTANT"-piles.{br}{br}Finally, take the "NEUTRAL"-cards arrange them in the remaining open boxes of the score sheet.</item>
-        <item id="step2CondOfInstruc">Give condition of instruction here</item>
+        <item id="step2CondOfInstruc">Sorting Statements</item>
         <item id="step2TextSizeLabel">Text</item>
         
 
         <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
         <item id="step3Head">Step 3 of 5</item>
         <item id="step3Text">Now you have placed all cards on the score sheet. Please go over your distribution once more and swap card positions cards if desired.</item>
-        <item id="step3CondOfInstruc">Give condition of instruction here</item>
+        <item id="step3CondOfInstruc">Finalize your Q-sort</item>
 
         <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
         <item id="step4Head">Step 4 of 5</item>
